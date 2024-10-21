@@ -9,6 +9,11 @@ title: Daoce Wang's CV
 **Email**: [daocwang@iu.edu](mailto:daocwang@iu.edu)  
 **Phone**: 352‑871‑4124
 
+## Biography
+I am a 5th-year Ph.D. student at Indiana University, Bloomington, and I expect to graduate in spring 2025. I received a bachelor's degree in Computer Science from the University of Electronic Science and Technology of China (UESTC) in 2018, and a master's degree in Computer Science from the University of Florida in 2020. I completed summer research internships at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
+My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems. My research interests also include scientific data visualization, machine learning-based lossy compression, and fault tolerance.
+
+
 ## Education
 
 - **Ph.D. Candidate** in Computer Engineering  
@@ -31,9 +36,6 @@ title: Daoce Wang's CV
 
 High-Performance Computing, Scientific Data Management, Lossy Compression, Scientific Visualization, Machine Learning, Fault Tolerance, Adaptive Mesh Refinement (AMR), Tensor Decomposition
 
-## Skills
-
-C/C++, MPI, OpenMP, CUDA, Python, MPI, MATLAB
 
 ## Publications
 
