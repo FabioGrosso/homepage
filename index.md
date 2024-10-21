@@ -95,22 +95,15 @@ C/C++, MPI, OpenMP, CUDA, Python, MPI, MATLAB
 
 ### Research Intern, Los Alamos National Laboratory
 **2024 May – 2024 August**  
-- Developed streaming compression techniques for SZ2, focusing on random access functionality.
-- Enhanced post-processing techniques to minimize compression error and reduce bias in error distribution.
 
 ### Research Intern, Los Alamos National Laboratory
 **2023 May – 2023 August**  
-- Enhanced in-situ AMR compression for improving I/O and compression performance in simulations.
-- Investigated the impact of data compression on AMR data visualization.
 
 ### Research Intern, Los Alamos National Laboratory
 **2022 June – 2022 August**  
-- Improved compression ratio and throughput for AMR data.
-- Integrated SZ compressor into the AMR-based cosmology simulation code Nyx.
 
 ### Research Intern, Los Alamos National Laboratory
 **2021 June – 2021 August**  
-- Evaluated optimal lossy compression algorithms for an AMR cosmology simulation.
 
 ## Awards & Travel Grants
 
@@ -118,24 +111,3 @@ C/C++, MPI, OpenMP, CUDA, Python, MPI, MATLAB
 - **HPDC 2022 Student Travel Grant** ($923.00)
 - **Graduate and Professional Student Association Travel Grant** from Washington State University ($1,000.00)
 
-## References
-
-### Dr. James Ahrens
-Senior Scientist, Los Alamos National Laboratory  
-Email: [ahrens@lanl.gov](mailto:ahrens@lanl.gov)
-
-### Dr. Pascal Grosset
-Scientist, Los Alamos National Laboratory  
-Email: [pascalgrosset@lanl.gov](mailto:pascalgrosset@lanl.gov)
-
-### Dr. Bo Fang
-Staff Computer Scientist, Pacific Northwest National Lab  
-Email: [bo.fang@pnnl.gov](mailto:bo.fang@pnnl.gov)
-
-### Dr. Dingwen Tao
-Associate Professor, Indiana University  
-Email: [ditao@iu.edu](mailto:ditao@iu.edu)
-
-### Dr. Jesus Pulido
-Staff Scientist, Los Alamos National Laboratory  
-Email: [pulido@lanl.gov](mailto:pulido@lanl.gov)
