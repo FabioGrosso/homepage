@@ -3,7 +3,7 @@ layout: default
 title: Daoce Wang's CV
 ---
 
-# Daoce Wang
+# Daoce Wang 王道策
 
 **Address**: 2355 S Worthington Ln, Bloomington, IN 47401  
 **Email**: [daocwang@iu.edu](mailto:daocwang@iu.edu)  
