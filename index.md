@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Daoce Wang's CV
 ---
 
 # Daoce Wang
@@ -26,10 +26,14 @@ title: Home
 
 - **B.S. in Computer Science and Engineering**  
   University of Electronic Science and Technology of China, Chengdu, China (2018)
-  
+
 ## Research Interests
 
 High-Performance Computing, Scientific Data Management, Lossy Compression, Scientific Visualization, Machine Learning, Fault Tolerance, Adaptive Mesh Refinement (AMR), Tensor Decomposition
+
+## Skills
+
+C/C++, MPI, OpenMP, CUDA, Python, MPI, MATLAB
 
 ## Publications
 
@@ -40,7 +44,7 @@ High-Performance Computing, Scientific Data Management, Lossy Compression, Scien
 
 ### SC '24
 - **A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**  
-  Daoce Wang, Pascal Grosset, et al.  
+  Daoce Wang, Pascal Grosset, Jesus Pulido, et al.  
   Atlanta, GA, USA, November 17–22, 2024.
 
 ### TPDS '24
@@ -48,19 +52,90 @@ High-Performance Computing, Scientific Data Management, Lossy Compression, Scien
   "Optimizing Error-Bounded Lossy Compression for 3D AMR Simulations."  
   IEEE Transactions on Parallel and Distributed Systems, 2024.
 
-*(Include other publications similarly)*
+### EUROSYS '24
+- **Concealing Compression-Accelerated I/O for HPC Applications through In Situ Task Scheduling**  
+  Daoce Wang, Sian Jin, Sheng Di, Frédéric Vivien, et al.  
+  Athens, Greece, April 22–25, 2024.
+
+### SC '23
+- **AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications**  
+  Daoce Wang, Jesus Pulido, Pascal Grosset, et al.  
+  Denver, Colorado, USA, November 12–17, 2023.
+
+### HPDC '22
+- **TAC: Optimizing Error-Bounded Lossy Compression for 3D AMR Simulations**  
+  Daoce Wang, Jesus Pulido, Pascal Grosset, et al.  
+  Minneapolis, Minnesota, USA, June 27–July 1, 2022.
+
+### CLUSTER '21
+- **Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights**  
+  Daoce Wang, Bo Fang, Sian Jin, et al.  
+  Portland, OR, USA, September 7–10, 2021. (*Equal contribution*)
+
+### CHINACOM '17
+- **Research on the Monitoring Method of the Road Communication Network Quality Based on Vehicle-Borne IoT**  
+  Baihua Ji, Xiao Liu, Tenghui Ke, Daoce Wang, et al.  
+  Xian, China, October 10–12, 2017.
+
+## Workshop & Poster Presentations
+
+### SC '24 Doctoral Showcase
+- **Designing Efficient Data Reduction Approaches for Multi-resolution Simulations on HPC Systems**  
+  Daoce Wang, Dingwen Tao.
+
+### DRBSD-10 at SC '24
+- **An Exploration of How Volume Rendering is Impacted by Lossy Data Reduction**  
+  Yanni Etchi, Daoce Wang, Pascal Grosset, et al.
+
+### SC '21 Poster
+- **In-Situ Data Reduction for AMR-Based Cosmology Simulations**  
+  Daoce Wang, Jesus Pulido, Pascal Grosset, et al.
 
 ## Experience
 
-### Research Intern - Los Alamos National Laboratory
-- **2024 May – 2024 August**  
-  Developed streaming compression techniques for SZ2 and enhanced random access functionality.
+### Research Intern, Los Alamos National Laboratory
+**2024 May – 2024 August**  
+- Developed streaming compression techniques for SZ2, focusing on random access functionality.
+- Enhanced post-processing techniques to minimize compression error and reduce bias in error distribution.
 
-- **2023 May – 2023 August**  
-  Enhanced in-situ AMR compression for improving I/O in simulations.
-  
-*(Include other experiences similarly)*
+### Research Intern, Los Alamos National Laboratory
+**2023 May – 2023 August**  
+- Enhanced in-situ AMR compression for improving I/O and compression performance in simulations.
+- Investigated the impact of data compression on AMR data visualization.
 
-## Contact
+### Research Intern, Los Alamos National Laboratory
+**2022 June – 2022 August**  
+- Improved compression ratio and throughput for AMR data.
+- Integrated SZ compressor into the AMR-based cosmology simulation code Nyx.
 
-Feel free to reach me via email: [daocwang@iu.edu](mailto:daocwang@iu.edu)
+### Research Intern, Los Alamos National Laboratory
+**2021 June – 2021 August**  
+- Evaluated optimal lossy compression algorithms for an AMR cosmology simulation.
+
+## Awards & Travel Grants
+
+- **Ph.D. Student Travel Grant** for SC '24, Luddy School, Indiana University ($2,500.00)
+- **HPDC 2022 Student Travel Grant** ($923.00)
+- **Graduate and Professional Student Association Travel Grant** from Washington State University ($1,000.00)
+
+## References
+
+### Dr. James Ahrens
+Senior Scientist, Los Alamos National Laboratory  
+Email: [ahrens@lanl.gov](mailto:ahrens@lanl.gov)
+
+### Dr. Pascal Grosset
+Scientist, Los Alamos National Laboratory  
+Email: [pascalgrosset@lanl.gov](mailto:pascalgrosset@lanl.gov)
+
+### Dr. Bo Fang
+Staff Computer Scientist, Pacific Northwest National Lab  
+Email: [bo.fang@pnnl.gov](mailto:bo.fang@pnnl.gov)
+
+### Dr. Dingwen Tao
+Associate Professor, Indiana University  
+Email: [ditao@iu.edu](mailto:ditao@iu.edu)
+
+### Dr. Jesus Pulido
+Staff Scientist, Los Alamos National Laboratory  
+Email: [pulido@lanl.gov](mailto:pulido@lanl.gov)
