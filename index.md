@@ -10,7 +10,9 @@ layout: default
 # Biography
 I am a 5th-year Ph.D. student at Indiana University, Bloomington, expect to graduate in May 2025. I received a bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018, and a master's degree in Computer Science from the University of Florida in 2020. I did summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems.
+
 ---
+
 # Research Interests
 * High-Performance Computing, 
 * Scientific Data Compression
