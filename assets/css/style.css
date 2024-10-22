@@ -1,0 +1,11 @@
+.wrapper {
+    max-width: 1200px; /* Set the desired max width */
+    width: 90%;        /* Adjust the width percentage to fit your layout */
+    margin: 0 auto;    /* Center the content */
+}
+
+section {
+    max-width: 1200px; /* Ensure the section uses the same width */
+    width: 90%;
+    margin: 0 auto;
+}
