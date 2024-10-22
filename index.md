@@ -86,17 +86,17 @@ SC ’24 Doctoral Showcase.
 ### DRBSD-10 
 Yanni Etchi, **Daoce Wang**, Pascal Grosset, Terece Turton, James Ahrens, and David Rogers.\
 An Exploration of How Volume Rendering is Impacted by Lossy Data Reduction.\
-The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-10) (in conjunction with SC 24), Atlanta, GA, USA, November 18, 2024.
+The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024.
 
 ### DRBSD-10 
 Qing Zheng, Brian Atkinson, **Daoce Wang**, Jason Lee, John Patchett, Dominic Manno, and Gary Grider.\
 Accelerating Viz Pipelines Using Near-Data Computing: An Early Experience.\
-The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-10) (in conjunction with SC 24), Atlanta, GA, USA, November 18, 2024.
+The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024.
 
 ### DRBSD-9
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, James Ahrens, and Dingwen Tao.\
 Analyzing Impact of Data Reduction Techniques on Visualization for AMR Applications Using AMReX Framework.\
-The 9th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-9) (in conjunction with SC 23), Denver, CO, USA, November 12, 2023.
+The 9th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 23), Denver, CO, USA, Nov 12, 2023.
 
 ### SC '21 Poster 
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Sian Jin, Jiannan Tian, James Ahrens, and Dingwen Tao.\
