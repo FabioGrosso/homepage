@@ -14,9 +14,9 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 ---
 
 # Research Interests
-* High-Performance Computing, 
+* High-Performance Computing
 * Scientific Data Compression
-* Scientific Visualization, 
+* Scientific Visualization
 * Machine Learning
 * Fault Tolerance
 
