@@ -8,18 +8,18 @@ title: Daoce Wang's CV
 **Email**: [daocwang@iu.edu](mailto:daocwang@iu.edu)  
 **Phone**: 352‑871‑4124
 
-## Biography
+# Biography
 I am a 5th-year Ph.D. student at Indiana University, Bloomington, expect to graduate in May 2025. I received a bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018, and a master's degree in Computer Science from the University of Florida in 2020. I did summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems.
 ---
-## Research Interests
+# Research Interests
 * High-Performance Computing, 
 * Scientific Data Compression
 * Scientific Visualization, 
 * Machine Learning
 * Fault Tolerance
 
-## Education
+# Education
 
 - **Ph.D. Candidate** in Computer Engineering  
   Indiana University, Bloomington, IN (2022 - 2025)  
@@ -38,7 +38,7 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 ---
 
-## Selected Publications
+# Selected Publications
 
 ### **NeurIPS '24**
 Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao.  
@@ -75,7 +75,7 @@ Bo Fang*, **Daoce Wang***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Sur
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 710, 2021.
 
-## Workshop & Poster Presentations
+# Workshop & Poster Presentations
 
 ### Doctoral Showcase
 **Daoce Wang**, Dingwen Tao.
@@ -104,7 +104,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 
 ---
 
-## Experience
+# Experience
 
 ### Research Intern, Los Alamos National Laboratory
 **2024 May – 2024 August**  
@@ -118,7 +118,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 ### Research Intern, Los Alamos National Laboratory
 **2021 June – 2021 August**  
 
-## Awards & Travel Grants
+# Awards & Travel Grants
 
 - **Ph.D. Student Travel Grant** for SC '24, Luddy School, Indiana University ($2,500.00)
 - **HPDC 2022 Student Travel Grant** ($923.00)
