@@ -1,6 +1,5 @@
 title: "Daoce Wang's Personal Website"
 email: "daocwang@iu.edu"
-description: "Personal website for Daoce Wang"
 baseurl: "/"
 url: "https://www.daocewang.com"
 theme: minima  # Default Jekyll theme, feel free to change this later
