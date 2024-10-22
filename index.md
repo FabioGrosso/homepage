@@ -42,17 +42,23 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 ### **NeurIPS '24**
 Jinda Jia, Cong Xie, Hanlin Lu, Daoce Wang, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao.  
+
 SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.
+
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12 2024.
 
 ### **SC '24**
 Daoce Wang, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.
+
 A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.
+
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22 2024.
 
 ### **TPDS '24**
 Daoce Wang, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Kai Zhao, James Ahrens, and Dingwen Tao.
+
 TAC+: Optimizing Error-Bounded Lossy Compression for 3D AMR Simulation.
+
 IEEE Transactions on Parallel and Distributed Systems.
 
 ### **EUROSYS '24**
