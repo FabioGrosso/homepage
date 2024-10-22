@@ -2,4 +2,4 @@ title: "Daoce Wang's Personal Website"
 email: "daocwang@iu.edu"
 baseurl: "/"
 url: "https://www.daocewang.com"
-theme: jekyll-theme-cayman  # Default Jekyll theme, feel free to change this later
+theme: Modernist  # Default Jekyll theme, feel free to change this later
