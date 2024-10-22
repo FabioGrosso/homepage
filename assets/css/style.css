@@ -1,15 +1,13 @@
----
----
-
 @import "jekyll-theme-midnight";
+
 .wrapper {
-    max-width: 1200px; /* Set the desired max width */
-    width: 90%;        /* Adjust the width percentage to fit your layout */
-    margin: 0 auto;    /* Center the content */
+    max-width: 1200px !important; /* Set the desired max width */
+    width: 90% !important;        /* Adjust the width percentage to fit your layout */
+    margin: 0 auto !important;    /* Center the content */
 }
 
 section {
-    max-width: 1200px; /* Ensure the section uses the same width */
-    width: 90%;
-    margin: 0 auto;
+    max-width: 1200px !important; /* Ensure the section uses the same width */
+    width: 90% !important;
+    margin: 0 auto !important;
 }
