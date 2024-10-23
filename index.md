@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 # Daoce Wang 王道策
