@@ -4,7 +4,7 @@ layout: default
 
 # Daoce Wang 王道策
 
-**Email**: [daocwang@iu.edu](mailto:daocwang@iu.edu) test
+**Email**: [daocwang@iu.edu](mailto:daocwang@iu.edu)
 **Phone**: 352‑871‑4124
 
 # Biography
