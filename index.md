@@ -8,7 +8,7 @@ layout: base
 **Phone**: 352‑871‑4124
 
 # Biography
-I am a 5th-year Ph.D. student at Indiana University, Bloomington, expect to graduate in May 2025. I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I did summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
+I am a 5th-year Ph.D. student at Indiana University, Bloomington, and expect to graduate in May 2025, under the supervision of [Dr. Dingwen Tao](https://www.dingwentao.com/) and [Dr. Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems.
 
 ---
@@ -86,7 +86,7 @@ SC ’24 Doctoral Showcase.
 ### DRBSD-10 
 Yanni Etchi, **Daoce Wang**, Pascal Grosset, Terece Turton, James Ahrens, and David Rogers.\
 An Exploration of How Volume Rendering is Impacted by Lossy Data Reduction.\
-The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024.
+The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024. **Best Paper Runner-up**
 
 ### DRBSD-10 
 Qing Zheng, Brian Atkinson, **Daoce Wang**, Jason Lee, John Patchett, Dominic Manno, and Gary Grider.\
