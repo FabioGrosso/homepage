@@ -72,7 +72,7 @@ TAC: Optimizing Error-Bounded Lossy Compression for Three Dimensional Adaptive M
 ACM International Symposium on High-Performance Parallel and Distributed Computing, Minneapolis, Minnesota, USA, June 27–July 1, 2022.
 
 ### **CLUSTER '21**
-Bo Fang\*, ** Daoce Wang\* **, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy and Dingwen Tao. (\* equal contribution)\
+Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy and Dingwen Tao. (\* equal contribution)\
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 710, 2021.
 
