@@ -44,12 +44,12 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 ### **NeurIPS '24**
 Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao.\
 SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.\
-The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12 2024.
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12, 2024.
 
 ### **SC '24**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.\
 A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.\
-The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22 2024.
+The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
 
 ### **TPDS '24**
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Kai Zhao, James Ahrens, and Dingwen Tao.\
@@ -74,7 +74,7 @@ ACM International Symposium on High-Performance Parallel and Distributed Computi
 ### **CLUSTER '21**
 Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy and Dingwen Tao. (\* equal contribution)\
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
-The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 710, 2021.
+The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
 
 # Workshop & Poster Presentations
 
