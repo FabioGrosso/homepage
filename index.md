@@ -6,9 +6,11 @@ layout: base
 
 <div class="profile-container" style="display: flex; align-items: center;">
   <div class="profile-photo">
-    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 150px; height: 150px; margin-right: 20px;">
+    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 200px; height: 200px; margin-right: 20px;">
   </div>
   <div class="profile-info">
+    PhD Student, Intelligent Systems Engineering
+    Indiana University
     <strong>Email:</strong> <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
     <strong>Phone:</strong> 352‑871‑4124
   </div>
