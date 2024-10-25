@@ -82,7 +82,7 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 # **Selected Publications**
 
 ### **NeurIPS '24**
-Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao.\
+Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, and Dingwen Tao.\
 SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.\
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12, 2024.
 
@@ -112,7 +112,7 @@ TAC: Optimizing Error-Bounded Lossy Compression for Three Dimensional Adaptive M
 ACM International Symposium on High-Performance Parallel and Distributed Computing, Minneapolis, Minnesota, USA, June 27–July 1, 2022.
 
 ### **CLUSTER '21**
-Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy and Dingwen Tao. (\* equal contribution)\
+Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, and Dingwen Tao. (\* equal contribution)\
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
 
