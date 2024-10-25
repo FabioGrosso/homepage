@@ -42,6 +42,7 @@ layout: base
   }
 </style>
 
+---
 
 # **Biography**
 I am a 5th-year Ph.D. student at Indiana University, Bloomington, and expect to graduate in May 2025, under the supervision of Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
@@ -55,6 +56,8 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 * Scientific Visualization
 * Machine Learning
 * Fault Tolerance
+
+---
 
 # **Education**
 
@@ -155,9 +158,24 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 ### Research Intern, Los Alamos National Laboratory
 2021 June – 2021 August  
 
-**# Awards & Travel Grants**
+## **Reviewer/Sub-reviewer**
+- SC (2024, 2022)
+- HPDC (2024, 2023)
+- ICS (2023, 2022, 2022)
+- IPDPS (2024, 2023)
+- AAAI (2022)
+- Euro-Par (2023)
+- ICPP (2023)
+- CCGRID (2023, 2022)
+- HiPC (2023)
+- BigData (2021)
+- CLUSTER (2021)
+- TVCG, TPDS, TC, TBD, TCC, FGCS
 
-- **Ph.D. Student Travel Grant** for SC '24, Luddy School, Indiana University ($2,500.00)
-- **HPDC 2022 Student Travel Grant** ($923.00)
-- **Graduate and Professional Student Association Travel Grant** from Washington State University ($1,000.00)
+## **Awards & Travel Grants**
+
+- 2024, Ph.D. Student Travel Grant for SC '24 from Luddy School, Indiana University ($2,500.00)
+- 2022, HPDC 2022 Student Travel Grant ($923.00)
+- 2022, Graduate and Professional Student Association Travel Grant from Washington State University ($1,000.00)
+- 2021, Cluster 2021 Student Attendance Award ($100.00)
 
