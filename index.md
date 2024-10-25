@@ -43,7 +43,6 @@ layout: base
   }
 </style>
 
----
 
 # **Biography**
 I am a 5th-year Ph.D. student at Indiana University, Bloomington, and expect to graduate in May 2025, under the supervision of Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
