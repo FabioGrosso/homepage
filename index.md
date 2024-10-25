@@ -6,7 +6,7 @@ layout: base
 
 <div class="profile-container" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="profile-photo" style="flex-shrink: 0;">
-    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 280px; height: 280px; margin-right: 20px;">
+    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 300px; height: 300px; margin-right: 20px;">
   </div>
   <div class="profile-info" style="line-height: 2; margin-bottom: 2px; font-size: 22px;">
     <div style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</div>
@@ -21,14 +21,18 @@ layout: base
   @media (max-width: 768px) {
     .profile-container {
       flex-direction: column;
-      align-items: flex-start;
+      align-items: flex-start; /* Align items to the left */
     }
     
+    .profile-photo {
+      align-self: flex-start; /* Align the photo to the left */
+    }
+
     .profile-photo img {
-      width: 100%;
+      width: 100%; /* Adjust the size for mobile */
       height: auto;
-      margin-right: 0;
-      margin-bottom: 20px;
+      margin-right: 0; /* Remove right margin on mobile */
+      margin-bottom: 20px; /* Add some space below the image */
     }
     
     .profile-info {
@@ -37,7 +41,6 @@ layout: base
     }
   }
 </style>
-
 
 
 # **Biography**
