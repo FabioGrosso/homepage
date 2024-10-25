@@ -6,7 +6,7 @@ layout: base
 
 <div class="profile-container" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="profile-photo" style="flex-shrink: 0;">
-    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 200px; height: 200px; margin-right: 20px;">
+    <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 250px; height: 250px; margin-right: 20px;">
   </div>
   <div class="profile-info" style="line-height: 2; margin-bottom: 5px; font-size: 22px;">
     <div style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</div>
