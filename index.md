@@ -37,6 +37,7 @@ layout: base
     }
     
     .profile-info {
+      align-self: flex-start; /* Align the photo to the left */
       font-size: 20px;
       line-height: 2;
     }
