@@ -13,7 +13,7 @@ layout: base
     Indiana University<br>
     Email: <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
     Phone: 352‑871‑4124<br>
-     <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: none;">Download CV</a>
+     <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: underline;">Download CV</a>
   </div>
 </div>
 
