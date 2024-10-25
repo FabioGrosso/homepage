@@ -2,17 +2,17 @@
 layout: base
 ---
 
-# Daoce Wang 王道策
+**# Daoce Wang 王道策**
 
 <div class="profile-container" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="profile-photo" style="flex-shrink: 0;">
     <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 200px; height: 200px; margin-right: 20px;">
   </div>
-  <div class="profile-info" style="line-height: 1.5; margin-bottom: 5px; font-size: 18px;">
-    <strong style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</strong><br>
-    Indiana University<br>
-    <strong>Email:</strong> <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
-    <strong>Phone:</strong> 352‑871‑4124
+  <div class="profile-info" style="line-height: 2; margin-bottom: 5px; font-size: 22px;">
+    <div style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</div>
+    Indiana University<br><br>
+    Email: <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br><br>
+    Phone: 352‑871‑4124
   </div>
 </div>
 
@@ -32,30 +32,28 @@ layout: base
     }
     
     .profile-info {
-      font-size: 16px;
-    }
-    
-    .profile-info strong {
       font-size: 20px;
+      line-height: 2;
     }
   }
 </style>
 
 
-# Biography
+
+**# Biography**
 I am a 5th-year Ph.D. student at Indiana University, Bloomington, and expect to graduate in May 2025, under the supervision of Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems.
 
 ---
 
-# Research Interests
+**# Research Interests**
 * High-Performance Computing
 * Scientific Data Compression
 * Scientific Visualization
 * Machine Learning
 * Fault Tolerance
 
-# Education
+**# Education**
 
 - **Ph.D. Candidate** in Computer Engineering  
   Indiana University, Bloomington, IN (2022 - 2025)  
@@ -74,7 +72,7 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 ---
 
-# Selected Publications
+**# Selected Publications**
 
 ### **NeurIPS '24**
 Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao.\
@@ -111,7 +109,7 @@ Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, S
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
 
-# Workshop & Poster Presentations
+**# Workshop & Posters**
 
 ### Doctoral Showcase
 **Daoce Wang**, Dingwen Tao.\
@@ -140,7 +138,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 
 ---
 
-# Experience
+**# Experience**
 
 ### Research Intern, Los Alamos National Laboratory
 2024 May – 2024 August  
@@ -154,7 +152,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 ### Research Intern, Los Alamos National Laboratory
 2021 June – 2021 August  
 
-# Awards & Travel Grants
+**# Awards & Travel Grants**
 
 - **Ph.D. Student Travel Grant** for SC '24, Luddy School, Indiana University ($2,500.00)
 - **HPDC 2022 Student Travel Grant** ($923.00)
