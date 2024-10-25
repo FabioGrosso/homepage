@@ -125,7 +125,7 @@ SC ’24 Doctoral Showcase.
 ### DRBSD-10 
 Yanni Etchi, **Daoce Wang**, Pascal Grosset, Terece Turton, James Ahrens, and David Rogers.\
 An Exploration of How Volume Rendering is Impacted by Lossy Data Reduction.\
-The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024.\ 
+The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (in conjunction with SC 24), Atlanta, GA, USA, Nov 18, 2024.
 **Best Paper Runner-up**
 
 ### DRBSD-10 
