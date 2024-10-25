@@ -4,17 +4,42 @@ layout: base
 
 # Daoce Wang 王道策
 
-<div class="profile-container" style="display: flex; align-items: center;">
-  <div class="profile-photo">
+<div class="profile-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div class="profile-photo" style="flex-shrink: 0;">
     <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 200px; height: 200px; margin-right: 20px;">
   </div>
-  <div class="profile-info" style="line-height: 1.5; margin-bottom: 5px;">
-    PhD Student, Intelligent Systems Engineering<br>
+  <div class="profile-info" style="line-height: 1.5; margin-bottom: 5px; font-size: 18px;">
+    <strong style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</strong><br>
     Indiana University<br>
     <strong>Email:</strong> <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
     <strong>Phone:</strong> 352‑871‑4124
   </div>
 </div>
+
+<!-- Add responsive styles -->
+<style>
+  @media (max-width: 768px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    
+    .profile-photo img {
+      width: 100%;
+      height: auto;
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+    
+    .profile-info {
+      font-size: 16px;
+    }
+    
+    .profile-info strong {
+      font-size: 20px;
+    }
+  }
+</style>
 
 
 # Biography
