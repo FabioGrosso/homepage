@@ -12,7 +12,8 @@ layout: base
     <div style="font-size: 22px;">PhD Student, Intelligent Systems Engineering</div>
     Indiana University<br>
     Email: <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
-    Phone: 352‑871‑4124
+    Phone: 352‑871‑4124<br>
+     <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: none; font-weight: bold;">Download CV</a>
   </div>
 </div>
 
