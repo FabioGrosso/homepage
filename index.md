@@ -165,7 +165,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 # **Reviewer/Sub-reviewer**
 - SC (2024, 2022)
 - HPDC (2024, 2023)
-- ICS (2023, 2022, 2022)
+- ICS (2023, 2022)
 - IPDPS (2024, 2023)
 - AAAI (2022)
 - Euro-Par (2023)
