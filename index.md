@@ -158,7 +158,7 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 ### Research Intern, Los Alamos National Laboratory
 2021 June – 2021 August  
 
-## **Reviewer/Sub-reviewer**
+# **Reviewer/Sub-reviewer**
 - SC (2024, 2022)
 - HPDC (2024, 2023)
 - ICS (2023, 2022, 2022)
@@ -171,11 +171,3 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 - BigData (2021)
 - CLUSTER (2021)
 - TVCG, TPDS, TC, TBD, TCC, FGCS
-
-## **Awards & Travel Grants**
-
-- 2024, Ph.D. Student Travel Grant for SC '24 from Luddy School, Indiana University ($2,500.00)
-- 2022, HPDC 2022 Student Travel Grant ($923.00)
-- 2022, Graduate and Professional Student Association Travel Grant from Washington State University ($1,000.00)
-- 2021, Cluster 2021 Student Attendance Award ($100.00)
-
