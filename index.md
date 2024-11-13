@@ -62,11 +62,11 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 # **Education**
 
-- **Ph.D. Candidate** in Computer Engineering  
+- **Ph.D. Candidate in Computer Engineering**  
   Indiana University, Bloomington, IN (2022 - 2025)  
   *Advisors*: Dr. Fengguang Song and Dr. Dingwen Tao  
 
-- **Ph.D. Candidate** in Computer Science  
+- **Ph.D. Candidate in Computer Science**  
   Washington State University, Pullman, WA (2020 - 2022)  
   *Advisor*: Dr. Dingwen Tao
 
