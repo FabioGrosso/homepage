@@ -81,6 +81,11 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 # **Selected Publications**
 
+### **PPoPP '25**
+Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, Jinda Jia, {\FSansBold Daoce Wang}, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Guangming Tan, and Dingwen Tao.\
+COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers.\
+30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Las Vegas, NV, USA, March 1-5, 2025.
+
 ### **NeurIPS '24**
 Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, and Dingwen Tao.\
 SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.\
