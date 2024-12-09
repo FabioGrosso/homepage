@@ -112,7 +112,7 @@ AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Denver, Colorado, USA, November 12–17, 2023.
 
 ### **HPDC '22**
-**Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, James Ahrens, and Dingwen Tao.\
+**Daoce Wang**, Jesus Pulido, Pascal Grosset, Sian Jin, Jiannan Tian, James Ahrens, and Dingwen Tao.\
 TAC: Optimizing Error-Bounded Lossy Compression for Three Dimensional Adaptive Mesh Refinement Simulations.\
 ACM International Symposium on High-Performance Parallel and Distributed Computing, Minneapolis, Minnesota, USA, June 27–July 1, 2022.
 
