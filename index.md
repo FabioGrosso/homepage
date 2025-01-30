@@ -92,7 +92,7 @@ SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12, 2024.
 
 ### **SC '24**
-**Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.  
+**Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.\
 A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.  
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
