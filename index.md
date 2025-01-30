@@ -93,7 +93,7 @@ The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Va
 
 ### **SC '24**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.\
-A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.\
+A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization. <img src="photo/artifacts_available_v1_1.png" alt="Reproducibility Badge" width="24">\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
 
 ### **TPDS '24**
