@@ -97,6 +97,12 @@ A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visua
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
 
+### **SC '23**
+**Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Zarija Luki, Kai Zhao, Bo Fang, Franck Cappello, James Ahrens, and Dingwen Tao.\
+AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications.
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
+The International Conference for High Performance Computing, Networking, Storage, and Analysis, Denver, Colorado, USA, November 12–17, 2023.
+
 ### **TPDS '24**
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Kai Zhao, James Ahrens, and Dingwen Tao.\
 TAC+: Optimizing Error-Bounded Lossy Compression for 3D AMR Simulation.\
