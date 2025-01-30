@@ -94,7 +94,7 @@ The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Va
 ### **SC '24**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.  
 A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.  
-<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>  
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#replicated" target="_blank"><img src="results_replicated_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\  
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
 
 
@@ -108,12 +108,14 @@ IEEE Transactions on Parallel and Distributed Systems.
 
 ### **EUROSYS '24**
 Sian Jin, Sheng Di, Frédéric Vivien, **Daoce Wang**, Yves Robert, Dingwen Tao, and Franck Cappello.\
-Concealing Compression-Accelerated I/O for HPC Applications through In Situ Task Scheduling.\
+Concealing Compression-Accelerated I/O for HPC Applications through In Situ Task Scheduling.
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
 Proceedings of the Nineteenth European Conference on Computer Systems, Athens, Greece, April 22–25, 2024.
 
 ### **SC '23**
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Zarija Luki, Kai Zhao, Bo Fang, Franck Cappello, James Ahrens, and Dingwen Tao.\
-AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications.\
+AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications.
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Denver, Colorado, USA, November 12–17, 2023.
 
 ### **HPDC '22**
