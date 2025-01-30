@@ -102,7 +102,7 @@ A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visua
 </a>
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank">
     <img src="photo/results_reproduced_v1_1.png" alt="Reproducibility Badge" width="24" style="vertical-align: middle;">
-</a>\
+</a>
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, USA, November 17–22, 2024.
 
 
