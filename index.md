@@ -96,10 +96,10 @@ The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Va
 A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization.
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank">
     <img src="photo/artifacts_available_v1_1.png" alt="Reproducibility Badge" width="24" style="vertical-align: middle;">
-</a>\
+</a>
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank">
     <img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Reproducibility Badge" width="24" style="vertical-align: middle;">
-</a>\
+</a>
 <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank">
     <img src="photo/results_reproduced_v1_1.png" alt="Reproducibility Badge" width="24" style="vertical-align: middle;">
 </a>\
