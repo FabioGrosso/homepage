@@ -83,7 +83,7 @@ My Ph.D. research focuses on designing efficient data reduction approaches for e
 
 ### **ICS '25**
 Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang**, Jiannan Tian, and Miao Yin.\
-NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\ 
+NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
 ACM International Conference on Supercomputing 2025, Salt Lake City, UT, USA, June 8–11, 2025.
 
 ### **PPoPP '25**
