@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/21e4af38-244f-4854-a4d7-3b00ad4cb401)---
 layout: base
 ---
 
@@ -46,23 +46,26 @@ layout: base
 
 
 # **Biography**
-I am a 5th-year Ph.D. student at Indiana University, Bloomington, and will graduate in May 2025, under the supervision of Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). I received my bachelor's degree in Computer Science from the University of Electronic Science and Technology of China in 2018 and my master's degree in Computer Science from the University of Florida in 2020. I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
-My Ph.D. research focuses on designing efficient data reduction approaches for extreme-scale scientific simulations on high-performance computing (HPC) systems.
+
+
+I am an Assistant Professor in the Department of Computer Science at the University of Nebraska Omaha. I received my B.Eng., M.S., and Ph.D. degrees in Computer Science/Engineering from the University of Electronic Science and Technology of China (UESTC, 2018), the University of Florida (UFL, 2020), and Indiana University Bloomington (IUB, 2025), respectively. I was advised by Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/) during my Ph.D.
+I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
+My research interests include high-performance computing (HPC), scientific data management and analytics, scientific data compression and visualization, and high-performance machine learning. Over the past five years, I have published over ten papers in top-tier venues in computer systems and AI, including SC, PPoPP, TPDS, HPDC, ICS, EuroSys, and NeurIPS.
 
 ---
 
 # **Research Interests**
 * High-Performance Computing
-* Scientific Data Compression
+* Scientific data analytics & management
+* Data reduction & lossy compression
 * Scientific Visualization
-* Machine Learning
-* Fault Tolerance
+* High-Performance Machine Learning
 
 ---
 
 # **Education**
 
-- **Ph.D. Candidate in Computer Engineering**  
+- **Ph.D. in Computer Engineering**  
   Indiana University, Bloomington, IN (2022 - 2025)  
   *Advisors*: Dr. Fengguang Song and Dr. Dingwen Tao  
 
