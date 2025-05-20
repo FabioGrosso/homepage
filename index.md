@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/21e4af38-244f-4854-a4d7-3b00ad4cb401)---
 layout: base
 ---
 
