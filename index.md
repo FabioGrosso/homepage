@@ -85,6 +85,11 @@ My research interests include high-performance computing (HPC), scientific data 
 
 # **Selected Publications**
 
+### **CSUR '25**
+Sheng Di et al.\
+A Survey on Error-Bounded Lossy Compression for Scientific Datasets.\
+ACM Computing Surveys.
+
 ### **ICS '25**
 Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang**, Jiannan Tian, and Miao Yin.\
 NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
@@ -185,10 +190,10 @@ ACM Student Research Competition: Graduate Posters at SC 21.
 - ICS (2023, 2022)
 - IPDPS (2024, 2023)
 - AAAI (2022)
+- CLUSTER (2025, 2021)
 - Euro-Par (2023)
 - ICPP (2023)
 - CCGRID (2023, 2022)
 - HiPC (2023)
 - BigData (2021)
-- CLUSTER (2021)
 - TVCG, TPDS, TC, TBD, TCC, FGCS
