@@ -48,7 +48,7 @@ layout: base
 # **Biography**
 
 
-I am an Assistant Professor in the Department of Computer Science at the University of Nebraska Omaha. I received my B.S, M.S., and Ph.D. degrees in Computer Science/Engineering from the University of Electronic Science and Technology of China (UESTC, 2018), the University of Florida (UFL, 2020), and Indiana University Bloomington (IUB, 2025), respectively. I was advised by Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/) during my Ph.D.
+I am an Assistant Professor in the Department of Computer Science at the University of Nebraska Omaha. I received my B.S., M.S., and Ph.D. degrees in Computer Science/Engineering from the University of Electronic Science and Technology of China (UESTC, 2018), the University of Florida (UFL, 2020), and Indiana University Bloomington (IUB, 2025), respectively. I was advised by Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/) during my Ph.D.
 I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My research interests include high-performance computing (HPC), scientific data management and analytics, scientific data compression and visualization, and high-performance machine learning. Over the past five years, I have published over ten papers in top-tier venues in computer systems and AI, including SC, PPoPP, TPDS, HPDC, ICS, EuroSys, and NeurIPS.
 
