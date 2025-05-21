@@ -59,7 +59,7 @@ My research interests include high-performance computing (HPC), scientific data 
 *	Scientific data analytics & management
 *	Data reduction & lossy compression
 *	Scientific visualization
-*	High-Performance machine learning.
+*	High-Performance machine learning
 
 
 ---
