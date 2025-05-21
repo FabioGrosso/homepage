@@ -88,7 +88,7 @@ His research interests include high-performance computing (HPC), scientific data
 ### **CSUR '25**
 Sheng Di et al.\
 A Survey on Error-Bounded Lossy Compression for Scientific Datasets.\
-ACM Computing Surveys.
+ACM Computing Surveys, impact factor:23.8
 
 ### **ICS '25**
 Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang**, Jiannan Tian, and Miao Yin.\
@@ -114,7 +114,7 @@ The International Conference for High Performance Computing, Networking, Storage
 ### **TPDS '24**
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Kai Zhao, James Ahrens, and Dingwen Tao.\
 TAC+: Optimizing Error-Bounded Lossy Compression for 3D AMR Simulation.\
-IEEE Transactions on Parallel and Distributed Systems.
+IEEE Transactions on Parallel and Distributed Systems, impact factor: 5.3
 
 ### **EUROSYS '24**
 Sian Jin, Sheng Di, Frédéric Vivien, **Daoce Wang**, Yves Robert, Dingwen Tao, and Franck Cappello.\
