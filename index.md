@@ -11,6 +11,7 @@ layout: base
   <div class="profile-info" style="line-height: 2; margin-bottom: 2px; font-size: 22px;">
     <div style="font-size: 22px;">Assistant Professor</div>
     University of Nebraska Omaha<br>
+    Department of Computer Science<br>
     Email: <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
     Phone: 352‑871‑4124<br>
      <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: underline;">Download CV</a>
