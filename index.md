@@ -9,8 +9,8 @@ layout: base
     <img src="photo/IMG_2001.jpg" alt="Daoce Wang" style="width: 300px; height: 300px; margin-right: 20px;">
   </div>
   <div class="profile-info" style="line-height: 2; margin-bottom: 2px; font-size: 22px;">
-    <div style="font-size: 22px;">Ph.D. Candidate</div>
-    Indiana University<br>
+    <div style="font-size: 22px;">Assistant Professor</div>
+    University of Nebraska Omaha<br>
     Email: <a href="mailto:daocwang@iu.edu">daocwang@iu.edu</a><br>
     Phone: 352‑871‑4124<br>
      <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: underline;">Download CV</a>
@@ -48,18 +48,18 @@ layout: base
 # **Biography**
 
 
-I am an Assistant Professor in the Department of Computer Science at the University of Nebraska Omaha. I received my B.Eng., M.S., and Ph.D. degrees in Computer Science/Engineering from the University of Electronic Science and Technology of China (UESTC, 2018), the University of Florida (UFL, 2020), and Indiana University Bloomington (IUB, 2025), respectively. I was advised by Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/) during my Ph.D.
+I am an Assistant Professor in the Department of Computer Science at the University of Nebraska Omaha. I received my B.S, M.S., and Ph.D. degrees in Computer Science/Engineering from the University of Electronic Science and Technology of China (UESTC, 2018), the University of Florida (UFL, 2020), and Indiana University Bloomington (IUB, 2025), respectively. I was advised by Dr. [Dingwen Tao](https://www.dingwentao.com/) and Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/) during my Ph.D.
 I was a summer research intern at Los Alamos National Laboratory in 2021, 2022, 2023, and 2024.
 My research interests include high-performance computing (HPC), scientific data management and analytics, scientific data compression and visualization, and high-performance machine learning. Over the past five years, I have published over ten papers in top-tier venues in computer systems and AI, including SC, PPoPP, TPDS, HPDC, ICS, EuroSys, and NeurIPS.
 
 ---
 
 # **Research**
-* High-Performance Computing, 
+* High-Performance computing
 *	Scientific data analytics & management
-*	Data reduction & lossy compression, 
-*	Scientific Visualization, 
-*	High-Performance Machine Learning.
+*	Data reduction & lossy compression
+*	Scientific visualization
+*	High-Performance machine learning.
 
 
 ---
