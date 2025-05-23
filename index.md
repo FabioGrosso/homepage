@@ -88,7 +88,7 @@ His research interests include high-performance computing (HPC), scientific data
 ### **CSUR '25**
 Sheng Di et al.\
 A Survey on Error-Bounded Lossy Compression for Scientific Datasets.\
-ACM Computing Surveys, **impact factor:23.8**
+ACM Computing Surveys, **impact factor: 23.8**
 
 ### **ICS '25**
 Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang**, Jiannan Tian, and Miao Yin.\
