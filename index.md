@@ -118,7 +118,7 @@ Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and 
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
 
 ### **ICS '25**
-Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang\+**, Jiannan Tian\+, and Miao Yin\+. (\+ co-advice)\
+Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang<sup>+</sup>**, Jiannan Tian<sup>+</sup>, and Miao Yin<sup>+</sup>. (<sup>+</sup> co-advice) \
 NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
 ACM International Conference on Supercomputing 2025, Salt Lake City, UT, USA, June 8–11, 2025.
 
