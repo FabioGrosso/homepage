@@ -85,25 +85,10 @@ His research interests include high-performance computing (HPC), scientific data
 
 # **Selected Publications**
 
-### **CSUR '25**
-Sheng Di et al.\
-A Survey on Error-Bounded Lossy Compression for Scientific Datasets.\
-ACM Computing Surveys, **impact factor: 23.8**
-
-### **ICS '25**
-Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang**, Jiannan Tian, and Miao Yin.\
-NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
-ACM International Conference on Supercomputing 2025, Salt Lake City, UT, USA, June 8–11, 2025.
-
-### **PPoPP '25**
-Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, Jinda Jia, **Daoce Wang**, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Guangming Tan, and Dingwen Tao.\
-COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers.\
-30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Las Vegas, NV, USA, March 1-5, 2025.
-
-### **NeurIPS '24**
-Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, and Dingwen Tao.\
-SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.\
-The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12, 2024.
+### **SC '25**
+**Daoce Wang**, Pascal Grosset, Jesus Pulido, Jiannan Tian, Tushar M. Athawale, Jinda Jia, Baixi Sun, Boyuan Zhang, Sian Jin, Kai Zhao, James Ahrens, and Fengguang Song.\
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data.
+The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, USA, November 16–21, 2025.
 
 ### **SC '24**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Tushar M. Athawale, Jiannan Tian, Kai Zhao, Zarija Lukic, Axel Huebl, Zhe Wang, James Ahrens, and Dingwen Tao.\
@@ -115,12 +100,6 @@ The International Conference for High Performance Computing, Networking, Storage
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Kai Zhao, James Ahrens, and Dingwen Tao.\
 TAC+: Optimizing Error-Bounded Lossy Compression for 3D AMR Simulation.\
 IEEE Transactions on Parallel and Distributed Systems, **impact factor: 5.3**
-
-### **EUROSYS '24**
-Sian Jin, Sheng Di, Frédéric Vivien, **Daoce Wang**, Yves Robert, Dingwen Tao, and Franck Cappello.\
-Concealing Compression-Accelerated I/O for HPC Applications through In Situ Task Scheduling.
-<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
-Proceedings of the Nineteenth European Conference on Computer Systems, Athens, Greece, April 22–25, 2024.
 
 ### **SC '23**
 **Daoce Wang**, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Zarija Luki, Kai Zhao, Bo Fang, Franck Cappello, James Ahrens, and Dingwen Tao.\
@@ -137,6 +116,32 @@ ACM International Symposium on High-Performance Parallel and Distributed Computi
 Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, and Dingwen Tao. (\* equal contribution)\
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
+
+### **ICS '25**
+Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang\+**, Jiannan Tian\+, and Miao Yin\+. (\+ co-advice)\
+NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
+ACM International Conference on Supercomputing 2025, Salt Lake City, UT, USA, June 8–11, 2025.
+
+### **CSUR '25**
+Sheng Di et al.\
+A Survey on Error-Bounded Lossy Compression for Scientific Datasets.\
+ACM Computing Surveys, **impact factor: 23.8**
+
+### **PPoPP '25**
+Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, Jinda Jia, **Daoce Wang**, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Guangming Tan, and Dingwen Tao.\
+COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers.\
+30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Las Vegas, NV, USA, March 1-5, 2025.
+
+### **NeurIPS '24**
+Jinda Jia, Cong Xie, Hanlin Lu, **Daoce Wang**, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, and Dingwen Tao.\
+SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training.\
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver, Canada, December 9–12, 2024.
+
+### **EUROSYS '24**
+Sian Jin, Sheng Di, Frédéric Vivien, **Daoce Wang**, Yves Robert, Dingwen Tao, and Franck Cappello.\
+Concealing Compression-Accelerated I/O for HPC Applications through In Situ Task Scheduling.
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" target="_blank"><img src="photo/results_reproduced_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
+Proceedings of the Nineteenth European Conference on Computer Systems, Athens, Greece, April 22–25, 2024.
 
 # **Workshop & Posters**
 
