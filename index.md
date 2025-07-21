@@ -87,7 +87,7 @@ His research interests include high-performance computing (HPC), scientific data
 
 ### **SC '25**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Jiannan Tian, Tushar M. Athawale, Jinda Jia, Baixi Sun, Boyuan Zhang, Sian Jin, Kai Zhao, James Ahrens, and Fengguang Song.\
-STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data.
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data.\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, USA, November 16–21, 2025.
 
 ### **SC '24**
