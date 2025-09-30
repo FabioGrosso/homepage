@@ -87,7 +87,8 @@ His research interests include high-performance computing (HPC), scientific data
 
 ### **SC '25**
 **Daoce Wang**, Pascal Grosset, Jesus Pulido, Jiannan Tian, Tushar M. Athawale, Jinda Jia, Baixi Sun, Boyuan Zhang, Sian Jin, Kai Zhao, James Ahrens, and Fengguang Song.\
-STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data.\
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data.
+<a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#available" target="_blank"><img src="photo/artifacts_available_v1_1.png" alt="Artifacts Available Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#functional" target="_blank"><img src="photo/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Evaluated - Functional Badge" width="24"></a><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#replicated" target="_blank"><img src="photo/results_replicated_v1_1.png" alt="Results Reproduced Badge" width="24"></a>\
 The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, USA, November 16–21, 2025.
 
 ### **SC '24**
