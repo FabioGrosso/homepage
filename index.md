@@ -13,7 +13,6 @@ layout: base
     Department of Computer Science<br>
     University of Nebraska Omaha<br>
     Email: <a href="mailto:daocewang@unomaha.edu">daocewang@unomaha.edu</a><br>
-    Phone: 352‑871‑4124<br>
      <a href="photo/CV_Daoce_Wang.pdf" target="_blank" style="text-decoration: underline;">Download CV</a>
   </div>
 </div>
