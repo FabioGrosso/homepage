@@ -117,6 +117,11 @@ Bo Fang\*, **Daoce Wang\***, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, S
 Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.\
 The 2021 IEEE International Conference on Cluster Computing, Portland, OR, USA, September 7-10, 2021.
 
+### **NeurIPS '25**
+Jinda Jia, Cong Xie, Fanjiang Ye, Hao Feng, Hanlin Lu, **Daoce Wang**, and Haibin Lin.\
+DUO: No Compromise to Accuracy Degradation.\
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems
+
 ### **ICS '25**
 Wenqi Jia, Zhewen Hu, Youyuan Liu, Boyuan Zhang, Jinzhen Wang, Jinyang Liu, Wei Niu, Stavros Kalafatis, Junzhou Huang, Sian Jin, **Daoce Wang<sup>+</sup>**, Jiannan Tian<sup>+</sup>, and Miao Yin<sup>+</sup>. (<sup>+</sup> co-advice) \
 NeurLZ: An Online Neural Learning-based Method to Enhance Scientific Lossy Compression.\
